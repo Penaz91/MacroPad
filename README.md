@@ -13,4 +13,4 @@ Required Software
 You will need to following software to open and edit this project:
 
 - [KiCad](https://www.kicad.org/) 7.0.9 or Higher: for the Schematic Files
-- Any CAD Program (Like [FreeCad](https://www.freecad.org/)): for viewing the plate
+- Any CAD Program (Like [FreeCad](https://www.freecad.org/)) that supports DXF Files: for viewing the plate
