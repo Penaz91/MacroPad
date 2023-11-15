@@ -14,3 +14,13 @@ You will need to following software to open and edit this project:
 
 - [KiCad](https://www.kicad.org/) 7.0.9 or Higher: for the Schematic Files
 - Any CAD Program (Like [FreeCad](https://www.freecad.org/)) that supports DXF Files: for viewing the plate
+
+Known Issues
+------------
+
+- ERC Shows "Input Power pin not driven by any Output Power pins" on U1 for pins:
+    - Pin 13 (GND)
+    - Pin 36 (3V3)
+- DRC Shows 16 Violations "Silkscreen clipped by solder mask"
+
+I have no idea how to fix these.
