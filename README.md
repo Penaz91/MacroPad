@@ -1,7 +1,7 @@
 My Macropad Project
 ====================
 
-!! This circuit has never been tested, I take no responsibility for any damage or loss that comes from this project !!
+!! This circuit has been tested and it has been working great for a few months, but I take no responsibility for any damage or loss that comes from this project !!
 
 This is the project of a MicroPython-programmable (via [KMK](http://kmkfw.io/)) Macro Pad using a Raspberry Pi Zero and some components.
 
